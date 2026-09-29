@@ -31,7 +31,7 @@ The objective of this dashboard is to provide an overall view of hospital patien
 
 ## Dashboard Preview
 
-![Hospital Patient & Treatment Analysis](screenshots/Hospital_Patient_Treatment_Analysis.png)
+![Hospital Patient & Treatment Analysis](https://github.com/Divakar30/HealthCare-Dashboard-Power-BI/blob/main/Screenshot%20/%20Hospital_%26_Treatment_Analysis_Dashboard.png)
 
 ## Key Metrics
 
